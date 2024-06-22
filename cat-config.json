@@ -1,0 +1,8 @@
+{
+  "to-cat": "a, p, figcaption, h1, h2, h3, h4, h5, h6, img, iframe",
+  "no-cat": ".PJ img, .top-page",
+  "to-cat-class": "TO-CAT",
+  "no-cat-class": "NO-CAT",
+  "backup-dest": "./cat-save/",
+  "target": "./*.html"
+}
